@@ -1,5 +1,5 @@
 # Hidrojen Bor Jeneratoru
- Suyu Bor ile iyonize ederek Bor minerali içerisindeki Hidrojeni elektroliz etmek. Endüstriyel bir model değildir. Bilim kiti formatında yapılmıştır. Endüstriyel çözümlerimiz için bizimle iletişime geçebilir siniz. Bu ürünlere 29 EKim 2020 tarihinde yayına girecek olan b5robot.com adresimiz üzerinden satın alabilir ve kendi bilim kitinizi oluşturabilir siniz.
+ Suyu Bor ile iyonize ederek Bor minerali içerisindeki Hidrojeni elektroliz etmek. Endüstriyel bir model değildir. Bilim kiti formatında b5robot.com adresimiz için hazırlanmıştır. Endüstriyel çözümlerimiz için bizimle iletişime geçebilir siniz. Bu ürünlere 29 EKim 2020 tarihinde yayına girecek olan b5robot.com adresimiz üzerinden satın alabilir ve kendi bilim kitinizi oluşturabilir siniz.
  
 # Pinler
  1- Roboclaw S1 Pin    -> Arduino Leonardo 11 Pin
