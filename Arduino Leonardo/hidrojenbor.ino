@@ -25,7 +25,7 @@ void loop(){
     dongu(1);
     islem1N();  
     }
-    delay(500);
+    delay(5000);
 }
 
 void dongu(int x){
