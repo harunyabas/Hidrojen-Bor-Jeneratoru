@@ -17,7 +17,7 @@
  # Cihaz Listesi
   1- Arduino Leonardo
   <br/>
-  2- Roboclaw Motor Sürücü 2x15
+  2- Roboclaw Motor Sürücü 2x15 A
   <br/>
   3- 5V Dc fan 5x5x5x5cm 
   <br/>
